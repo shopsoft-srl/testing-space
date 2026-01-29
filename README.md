@@ -22,7 +22,7 @@
 
 ## 🚀 Modern Tech Stack
 
-This project leverages the latest and greatest in web development:
+This project will leverage the latest and greatest in web development:
 
 ### Core Technologies
 - **Frontend Framework**: React 18+ with Hooks and Concurrent Features
@@ -87,6 +87,8 @@ This project is currently in active development. Follow along as we build this f
 - [ ] Multiplayer support (future)
 
 ## 📦 Getting Started
+
+_Coming soon! Once the project is initialized, you'll be able to:_
 
 ```bash
 # Clone the repository
