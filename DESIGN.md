@@ -124,7 +124,7 @@ Used for creating complex objects and managing dependencies.
 ### Data Protection
 
 - Input validation at all entry points
-- Parameterized queries to prevent SQL injection
+- Use parameterized queries or prepared statements to prevent injection attacks
 - Encryption for sensitive data
 - Secure communication (HTTPS)
 
